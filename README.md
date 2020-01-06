@@ -1,21 +1,12 @@
-POS And Inventory Management System in PHP MySQL 100% Free.Download and Learn from video tutorial
+How to Create multi input / multi form & save data into relational table in JQuery,PHP & MySQL
+=============================================================================================
 
-In this Video Tutorial I am going to show you how POS ( Point of Sale ) & Inventory System works and I will provide you free code with database in Codeigniter. You can download from github link  from the description box below.in the project there is a file about configuration and settings.
-for POS and Inventory we will have products table
-purchase table
-item_purchase
-purchase & item purchase is One to many relation and this is our inventory in short Technic
+To make multi input or multi form first we will write a html form  as template and we will reuse this.in Javascript we will set incremented id and function with regular expression and finally we will append this template into a div.we can remove this form with indicating incremented track we set in a function as parameter and finally we use remove method in Jquery 
 
-and in invoice table you can sell to customers
-and will have relational table items_invoice same like purchase
+in one to many relational tables we need multi items forms/multi input data and main table form data to save them at a time and we can do this saving data first table first and we will get primary key of that table.we will save multi data into another table with this forign key id.
 
 
-So one purchase or one Sell could have multiple items at a time.
-
-Now I will show you how code and functionality work 
-
-
-Youtube Tutorial : https://www.youtube.com/watch?v=ckBqXNZkdWs
+Youtube Tutorial : https://youtu.be/IkdsHu06hms
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
