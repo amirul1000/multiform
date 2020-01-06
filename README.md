@@ -1,4 +1,4 @@
-How to Create multi input / multi form & save data into relational table in JQuery,PHP & MySQL
+How to Create multiple input / multiple form & save data into relational table in JQuery,PHP & MySQL
 =============================================================================================
 
 To make multi input or multi form first we will write a html form  as template and we will reuse this.in Javascript we will set incremented id and function with regular expression and finally we will append this template into a div.we can remove this form with indicating incremented track we set in a function as parameter and finally we use remove method in Jquery 
