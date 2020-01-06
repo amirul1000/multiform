@@ -1,3 +1,6 @@
+"#multiform" 
+
+
 How to Create multiple input / multiple form & save data into relational table in JQuery,PHP & MySQL
 =============================================================================================
 
@@ -10,7 +13,6 @@ Youtube Tutorial : https://youtu.be/IkdsHu06hms
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
-"# pos_inventory" 
 
 Donate to Paypal : patabuz@gmail.com
 
