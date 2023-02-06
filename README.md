@@ -9,12 +9,8 @@ To make multi input or multi form first we will write a html form  as template a
 in one to many relational tables we need multi items forms/multi input data and main table form data to save them at a time and we can do this saving data first table and we will get primary key of that table.we will save multi data into another table with this foreign key id.
 
 
-Youtube Tutorial : https://youtu.be/IkdsHu06hms
+Youtube Tutorial : https://youtu.be/7TTs9A2BoN8
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 
 Donate to Paypal : patabuz@gmail.com
-
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KHM59LRPNV3YY&source=url
-
